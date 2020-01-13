@@ -1,4 +1,4 @@
-# vue-from-validate
+# vue-dinamic-form
 
 ## Project setup
 ```
